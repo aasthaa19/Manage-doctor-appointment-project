@@ -28,16 +28,27 @@ It is a simple Node.js + Express based web application to manage doctor appointm
 
 MANAGE-DOCTOR-APPOINTMENT/
 │── node_modules/
+
 │── public/ (static assets if any)
+
 │── app.js (main Express server)
+
 │── appointments.js (appointments logic/data)
+
 │── public.js (doctor listing logic)
+
 │── index.html (frontend main page)
+
 │── style.css (styling)
+
 │── index.js (frontend JS if used)
+
 │── package.json
+
 │── package-lock.json
+
 │── .hintrc
+
 
  🚀 How to Run the Project
 
