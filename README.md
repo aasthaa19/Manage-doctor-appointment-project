@@ -1,7 +1,6 @@
  Online Appointment Management Portal (Mini Version)
-
-This project is developed as part of the technical assignment for Logische Innovative Private Limited.  
-It is a simple Node.js + Express based web application to manage doctor appointments.
+ 
+ It is a simple Node.js + Express based web application to manage doctor appointments.
 
  📌 Features
 
